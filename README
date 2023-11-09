@@ -1,0 +1,9 @@
+"""
+Name: Liam Keefe
+Course: CS361 Assignment 6
+Due Date: 11/8/2023
+Description: Basic UI template for the CS361 Project.
+Requires a MacOS/Linux environment for the usage of the clear prompt
+""" 
+
+Used as the basic implementation of Milestone#1 for the CS361 Software Engineering coursework.
